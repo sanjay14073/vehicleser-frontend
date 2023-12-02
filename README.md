@@ -1,6 +1,6 @@
 # Vehicle_services Frontend Solutions
 
-A new Flutter project.
+A new Flutter project.This aims to simplify the everyday problems faced in a apartment or any society.It also acts as personal document manager managing all documents like regestration documents,emission documents,insurance documents and register violations against any person register in the community
 
 ## Getting Started
 

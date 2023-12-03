@@ -22,7 +22,7 @@ class _RegistrationUpdateAndDeleteState
   TextEditingController t1 = TextEditingController(); // Document Name
   TextEditingController t2 = TextEditingController(); // Document Number
   TextEditingController t3 = TextEditingController(); // Expiration Date
-  final url1="192.168.1.40:3300";
+  final url1="Your local IP address";
   final url2="10.0.2.2:3300";
   DateTime selectedExpirationDate=DateTime.now();
   @override

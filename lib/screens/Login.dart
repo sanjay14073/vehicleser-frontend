@@ -16,7 +16,7 @@ class _LoginState extends State<Login> {
   TextEditingController t1=TextEditingController();
   TextEditingController t2=TextEditingController();
   TextEditingController t3=TextEditingController();
-  final url1="192.168.1.40:3300";
+  final url1= "Your local ip";
   final url2="10.0.2.2:3300";
   @override
   void initState(){

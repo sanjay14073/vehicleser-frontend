@@ -8,7 +8,7 @@ import 'package:provider/provider.dart';
 import 'package:dbms_vehiclemanagement/models/models.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 class Manager with ChangeNotifier {
-  final url1="192.168.1.40:3300";
+  final url1="Your local IP address";
   final url2="10.0.2.2:3300";
   Users u = Users();
   Map<Users, List<Vehicle>>m1 = {};

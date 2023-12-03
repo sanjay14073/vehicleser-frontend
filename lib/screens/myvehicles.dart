@@ -27,7 +27,7 @@ class _RegisterState extends State<Register> {
   String? selectedMake;
   int? selectedYear;
   String? selectedState;
-  final url1="192.168.1.40:3300";
+  final url1="Your local IP address";
   final url2="10.0.2.2:3300";
   Future<void> _launchInBrowser(Uri url) async {
     if (!await launchUrl(

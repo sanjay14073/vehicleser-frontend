@@ -27,7 +27,7 @@ class _InsuranceState extends State<Insurance> {
   int? selectedYear;
   String? selectedState;
   Vehicle?selectedVehicle;
-  final url1="192.168.1.40:3300";
+  final url1="Your local IP address";
   final url2="10.0.2.2:3300";
   Future<void> _launchInBrowser(Uri url) async {
     if (!await launchUrl(

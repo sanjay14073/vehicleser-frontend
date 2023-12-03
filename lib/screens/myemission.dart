@@ -15,7 +15,7 @@ class Emission extends StatefulWidget {
 }
 
 class _EmissionState extends State<Emission> {
-  final url1="192.168.1.40:3300";
+  final url1="Your local IP address";
   final url2="10.0.2.2:3300";
   TextEditingController t1 = TextEditingController();
   TextEditingController t2 = TextEditingController();
